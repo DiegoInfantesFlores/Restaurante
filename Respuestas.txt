@@ -1,0 +1,24 @@
+1.-
+
+2.-Integer Numerolista[]={5,6,5,4,1,9,7,3,6,8,5,2,6};
+
+2.1 Integer Numerolista = new Integer[Numerolista.length];
+
+2.3 while((x<Numerolista.lenght)&&(aEncontrado !=true))
+
+3 request
+Es el metodo que recibe del cliente del servlet
+
+response
+
+Es que encapsula la respuesta al cliente del servlet
+
+4.-
+200 = Respuesta de que esta correcto ok
+
+400= Que el servidor no procesara la solicitud, debe ser por un error de codigo o mal orden.
+
+500= Es un codigo de error en las aplicaciones del servidor web
+
+5.- Diferencias entre get y post
+el get envia datos a la url y el post envia datos ocultos
